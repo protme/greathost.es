@@ -1,1 +1,9 @@
 # greathost.es
+
+
+LOGIN_URL:    secrets.GH_LOGIN_URL
+CONTRACT_URL:
+EMAIL: 
+PASSWORD: 
+TG_BOT_TOKEN:
+TG_CHAT_ID
